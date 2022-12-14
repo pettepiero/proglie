@@ -1,0 +1,24 @@
+Notes for the project
+
+1) Ricordarsi di scrivere perché abbiamo scelto unsupervised learning
+
+2) spiegare cosa si fa con i dati mancanti
+
+3) Spiegare perchè abbiamo scelto python 
+
+
+
+SCALETTA:
+
+- Avere chiaro il laboratorio IRIS
+- Scelta tecnica di learning -> random forest, SVM, single tree -> valutazione di quale tecnica fare in base all'errore
+	per questa fase si potrebbe fare il cross validation
+- Capire come fare un random forest su python
+	importare dataset
+	tipi di variabili (liste, dataframe)
+	visualizzazione risultati
+
+- Capire se python fa la divisione tra learning e testing sets da solo, e come
+- Scegliere i parametri (slide 253)
+- Implementazione
+- Scelta metodo di valutazione e implementazione
