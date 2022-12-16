@@ -4,7 +4,9 @@ Notes for the project
 
 2) spiegare cosa si fa con i dati mancanti
 
-3) Spiegare perchè abbiamo scelto python 
+3) Spiegare perchè abbiamo scelto python
+
+4) Eventualmente valutare quali variabili hanno più peso nella classificazione
 
 
 
