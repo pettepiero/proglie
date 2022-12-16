@@ -8,12 +8,10 @@ Notes for the project
 
 4) Eventualmente valutare quali variabili hanno più peso nella classificazione
 
-
-
 SCALETTA:
 
 - Avere chiaro il laboratorio IRIS
-- Scelta tecnica di learning -> random forest, SVM, single tree -> valutazione di quale tecnica fare in base all'errore
+- Scelta tecnica di learning -> random forest, SVM, kNN, single tree -> valutazione di quale tecnica fare in base all'errore
 	per questa fase si potrebbe fare il cross validation
 - Capire come fare un random forest su python
 	importare dataset
