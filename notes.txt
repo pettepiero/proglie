@@ -8,6 +8,11 @@ Notes for the project
 
 4) Eventualmente valutare quali variabili hanno più peso nella classificazione
 
+5) Quando spieghiamo quale learning technique abbiamo usato e perché, aggiungere commento su come si comporta in terms of applicability, efficiency and explainability/interpretability (?)
+
+6) Valutare se possa esser utile fare un test sull'importanza delle variabili nell'effectiveness della learning tchnique (Gini error/mean accuracy decrease/feature ablation)(slides 259-263)
+
+
 SCALETTA:
 
 - Avere chiaro il laboratorio IRIS
