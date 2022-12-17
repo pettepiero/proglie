@@ -22,3 +22,4 @@ SCALETTA:
 - Scegliere i parametri (slide 253)
 - Implementazione
 - Scelta metodo di valutazione e implementazione
+- Parlare anche del tempo richiesto per i calcoli (confronto tra k CV e LOOCV)
