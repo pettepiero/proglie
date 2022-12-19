@@ -3,15 +3,15 @@ Notes for the project
 1) Ricordarsi di scrivere perché abbiamo scelto unsupervised learning
 
 2) spiegare cosa si fa con i dati mancanti
+	2a) ricordarsi di dire che abbiamo tolto dal dataset la seconda colonna, quella con il numero di foglie per classe (per evitare che influenzi la predizione della y)
 
-3) Spiegare perchè abbiamo scelto python
+3) [NO] Spiegare perchè abbiamo scelto python
 
 4) Eventualmente valutare quali variabili hanno più peso nella classificazione
 
 5) Quando spieghiamo quale learning technique abbiamo usato e perché, aggiungere commento su come si comporta in terms of applicability, efficiency and explainability/interpretability (?)
 
 6) Valutare se possa esser utile fare un test sull'importanza delle variabili nell'effectiveness della learning tchnique (Gini error/mean accuracy decrease/feature ablation)(slides 259-263)
-
 
 SCALETTA:
 
@@ -28,3 +28,6 @@ SCALETTA:
 - Implementazione
 - Scelta metodo di valutazione e implementazione
 - Parlare anche del tempo richiesto per i calcoli (confronto tra k CV e LOOCV)
+
+Procedure:
+
